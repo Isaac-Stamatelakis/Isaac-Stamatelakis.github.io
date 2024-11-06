@@ -21,11 +21,19 @@ Gazprea+ is a strongly typed language that includes seven data types: integers, 
 
 Additionally, I independently upgraded Gazprea to Gazprea+, adding features such as classes, structs, and pointers.
 
-## Turn Based Combat Game
+Read More
 
 ## ZomCom
+This game was created as a project for CMPUT 250 (Computers and Games). It was developed by me and 3 other students. I was the producer and lead programmer for the game. Although my group had unique circumstances, we only had 4 programmers, when were supposed to have 3 programmers, 1 artist, 1 audio, and 1 writer, I'm very proud of the game we produced!
 
-## City Map
+It is a roguelite where players fight through rooms of zombies with their infected date with the goal of beating the final boss and curing her.
 
-## Fitness App
+Read More
+
+## Additional Projects
+
+### Turn Based Combat Game
+### City Map
+### Fitness App
+### QR Code App
 
