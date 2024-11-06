@@ -33,7 +33,10 @@ It is a roguelite where players fight through rooms of zombies with their infect
 
 ## Additional Projects
 [Turn Based Game](url)
+
 [City Map App](url)
+
 [Fitness App](url)
+
 [QR Code App](url)
 
