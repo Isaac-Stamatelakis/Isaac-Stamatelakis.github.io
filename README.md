@@ -1,5 +1,3 @@
-# Isaac-Stamatelakis.github.io
-
 Isaac Stamatelakis
 
 Software Developer
