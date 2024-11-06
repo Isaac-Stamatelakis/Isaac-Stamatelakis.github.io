@@ -9,7 +9,7 @@ This is a game I have been working on for about a year with a friend in animatio
 
 The player starts off trapped in a cave. This cave serves as their primary base but they have a powerful teleportation tool allowing them to access other caves. These caves contain materials use to upgrade their production lines and eventually unlock other caves, with the goal of eventually upgrading the teleporter enough to teleport out of the cave and return to civilization.
 
-### Abyssal Caverns
+### Early Production Image of the Abyssal Caverns 
 ![nov6-1](https://github.com/user-attachments/assets/4751dd1b-c036-43d9-833c-98bda154ea60)
 
 Read More
