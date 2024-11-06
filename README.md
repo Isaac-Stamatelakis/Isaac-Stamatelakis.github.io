@@ -15,9 +15,9 @@ Read More
 ![nov6-1](https://github.com/user-attachments/assets/4751dd1b-c036-43d9-833c-98bda154ea60)
 
 ## Gazprea+ Compiler
-The Gazprea+ compiler is designed to target MLIR-LLVM, allowing it to be compiled into various architectures such as x86, ARM, and RISC-V, among others. It is developed using the MLIR C++ API and ANTLR4 to generate a parse tree from the grammar.
+The Gazprea+ compiler is designed to target MLIR-LLVM, allowing it to be compiled into various architectures such as x86, ARM, and RISC-V, among others. It is was developed by me and three other students in CMPUT 415. We used the MLIR C++ API in conjuction with ANTLR4 to generate a parse tree from the grammar.
 
-Gazprea+ is a strongly typed language that includes seven data types: integers, booleans, floats, matrices, vectors, strings, and tuples. It supports functions, while loops, for loops, if/else statements, standard input and output, type casting, and more. I developed it as part of a team of four.
+Gazprea+ is a strongly typed language that includes seven data types: integers, booleans, floats, matrices, vectors, strings, and tuples. It supports functions, while loops, for loops, if/else statements, standard input and output, type casting, and more.
 
 Additionally, I independently upgraded Gazprea to Gazprea+, adding features such as classes, structs, and pointers.
 
