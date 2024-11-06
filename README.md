@@ -19,7 +19,7 @@ The game is developed in Unity and includes many features:
 * Recursive compact machines which "shrink space" allowing players to build inside of them, and transfer materials.
 * Questbook with in game editing that guides players through the game. Three different quests types: item retreiveal, cave dimension and checkbox with rewards for completion.
 
-[Read More]([url](https://github.com/Isaac-Stamatelakis/Isaac-Stamatelakis.github.io/blob/main/Factory.MD))
+[Read More](https://github.com/Isaac-Stamatelakis/Isaac-Stamatelakis.github.io/blob/main/Factory.MD)
 
 ### Early Production Image of the Abyssal Caverns 
 ![nov6-1](https://github.com/user-attachments/assets/4751dd1b-c036-43d9-833c-98bda154ea60)
