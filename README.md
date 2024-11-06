@@ -28,12 +28,12 @@ This game was created as a project for CMPUT 250 (Computers and Games). It was d
 
 It is a roguelite where players fight through rooms of zombies with their infected date with the goal of beating the final boss and curing her.
 
-Read More
+[Play](url)
+[Read More](url)
 
 ## Additional Projects
-
-### Turn Based Combat Game
-### City Map
-### Fitness App
-### QR Code App
+[Turn Based Game](url)
+[City Map App](url)
+[Fitness App](url)
+[QR Code App](url)
 
