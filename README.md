@@ -1,10 +1,14 @@
-#Isaac Stamatelakis
-Computer Science and Mathematics student at the University of Alberta
+# Isaac Stamatelakis
+Hi! My name is Isaac Stamatelakis, I'm a Computer Science and Mathematics student at the University of Alberta.
 
 
-#Projects:
+# Projects:
 
 ## Factory Roguelite
+This is a game I have been working on for about a year with a friend in animation. It's my passion project as its a mixture of two of my all time favourite games Terraria and Modded Minecraft. The player starts off trapped in a cave. This cave serves as their primary base but they have a powerful teleportation tool allowing them to access other caves. These caves contain materials use to upgrade their production lines and eventually unlock other caves.
+
+See More
+[](url)
 
 ## Gazprea+ Compiler
 The Gazprea+ compiler is designed to target MLIR-LLVM, allowing it to be compiled into various architectures such as x86, ARM, and RISC-V, among others. It is developed using the MLIR C++ API and ANTLR4 to generate a parse tree from the grammar.
