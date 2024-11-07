@@ -11,7 +11,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-remote_theme           : "pages-themes/midnight@v0.2.0"
+remote_theme           : "pages-themes/time-machine@v0.2.0"
 
 title: [Portfolio]
 description: [A short description of your site's purpose]
