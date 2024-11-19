@@ -25,12 +25,14 @@ The game is developed in Unity and includes many features:
 ![nov6-1](https://github.com/user-attachments/assets/4751dd1b-c036-43d9-833c-98bda154ea60)
 
 ## Gazprea+ Compiler
-The Gazprea+ compiler is designed to target MLIR-LLVM, allowing it to be compiled into various architectures such as x86, ARM, and RISC-V, among others. It is was developed by me and three other students in CMPUT 415. We used the MLIR C++ API in conjuction with ANTLR4 to generate a parse tree from the grammar.
+The Gazprea+ compiler is designed to target MLIR-LLVM, allowing it to be compiled into various architectures such as x86, ARM, and RISC-V, among others. The compiler is built using the MLIR C++ API to generate code and ANTLR4 to generate a parse tree for the grammar. The base Gazprea compiler was developed by myself and another student in CMPUT 415.
 
-Gazprea+ is a strongly typed language that includes seven data types: integers, booleans, floats, matrices, vectors, strings, and tuples. It supports functions, while loops, for loops, if/else statements, standard input and output, type casting, and more.
+Gazprea is a strongly typed language that includes seven data types: integers, booleans, floats, matrices, vectors, strings, and tuples. It supports functions, procedures, while loops, for loops, if/else statements, standard input, standard output, type casting, type promotion, type definitions, type qualifiers, memory management, and more.
 
-Additionally, I independently upgraded Gazprea to Gazprea+, adding features such as classes, structs, and pointers.
+Additionally, I independently upgraded Gazprea to Gazprea+, adding features such as classes, structs, compound assignment operations, lists, enums, and switch statements.
 
+[Base Gazprea Requirements](url)
+[Gazprea+ Additional Requirements](url)
 [Read More](url)
 
 ## ZomCom
