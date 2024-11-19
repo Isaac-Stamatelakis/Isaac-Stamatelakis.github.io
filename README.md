@@ -32,7 +32,9 @@ Gazprea is a strongly typed language that includes seven data types: integers, b
 Additionally, I independently upgraded Gazprea to Gazprea+, adding features such as classes, structs, compound assignment operations, lists, enums, and switch statements.
 
 [Base Gazprea Requirements](url)
+
 [Gazprea+ Additional Requirements](url)
+
 [Read More](url)
 
 ## ZomCom
