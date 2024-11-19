@@ -6,6 +6,7 @@ Hi! My name is Isaac Stamatelakis, I'm a Computer Science and Mathematics studen
 
 ## CaveTech 
 <img src="https://github.com/user-attachments/assets/76a44189-928f-45de-8ea7-6a605327d29c" alt="CaveTechLogo" width="200" />
+
 This is a game I have been working on for about a year with a friend in animation. It's my passion project as its a mixture of two of my all time favourite games Terraria and Modded Minecraft. 
 
 The player starts off trapped in a cave. This cave serves as their primary base but they have a powerful teleportation tool allowing them to access other caves. These caves contain materials use to upgrade their production lines and eventually unlock other caves, with the goal of eventually upgrading the teleporter enough to teleport out of the cave and return to civilization.
@@ -25,8 +26,9 @@ The game is developed in Unity and includes many features:
 ### Early Production Image of the Abyssal Caverns 
 ![nov6-1](https://github.com/user-attachments/assets/4751dd1b-c036-43d9-833c-98bda154ea60)
 
-## Gazprea+ Compiler <img src="https://github.com/user-attachments/assets/86249937-455c-4186-87d7-d94b7c5f5695" alt="GazpreaLogo+" width="200" />
+## Gazprea+ Compiler 
 
+<img src="https://github.com/user-attachments/assets/86249937-455c-4186-87d7-d94b7c5f5695" alt="GazpreaLogo+" width="200" />
 
 The Gazprea+ compiler is designed to target MLIR-LLVM, allowing it to be compiled into various architectures such as x86, ARM, and RISC-V, among others. The compiler is built using the MLIR C++ API to generate code and ANTLR4 to generate a parse tree for the grammar. The base Gazprea compiler was developed by myself and another student in CMPUT 415.
 
