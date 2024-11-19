@@ -25,7 +25,7 @@ The game is developed in Unity and includes many features:
 ![nov6-1](https://github.com/user-attachments/assets/4751dd1b-c036-43d9-833c-98bda154ea60)
 
 ## Gazprea+ Compiler
-![GazpreaLogo+](https://github.com/user-attachments/assets/86249937-455c-4186-87d7-d94b7c5f5695)
+<img src="https://github.com/user-attachments/assets/86249937-455c-4186-87d7-d94b7c5f5695" alt="GazpreaLogo+" width="200" />
 
 The Gazprea+ compiler is designed to target MLIR-LLVM, allowing it to be compiled into various architectures such as x86, ARM, and RISC-V, among others. The compiler is built using the MLIR C++ API to generate code and ANTLR4 to generate a parse tree for the grammar. The base Gazprea compiler was developed by myself and another student in CMPUT 415.
 
